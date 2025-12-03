@@ -1,1 +1,24 @@
-/* to show your CSS things, you'll likely need to use this file */
+body {
+    background-color: black;
+    align-content: center;
+    position: relative;
+    column-width: auto;
+    padding-left: 38%;
+
+}
+
+header {
+    color:whitesmoke;
+    font-size: xx-large;
+}
+
+section {
+    color:whitesmoke;
+    font-size: large;
+}
+
+footer {
+    color:whitesmoke;
+    font-size: medium;
+}
+
